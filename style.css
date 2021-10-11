@@ -1,0 +1,48 @@
+#fact {
+    min-height: 2rem;
+    height: auto;
+    display: block;
+    margin-bottom: 5rem;
+    background-color: #fff;
+    border-radius: .2rem;
+    padding: .2rem 2.4rem;
+}
+
+/* #fact-text {
+    color: pink;
+    font-size: 1.4rem !important;
+} */
+
+#search-btn {
+    position: fixed;
+    left: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+footer {
+    background-color: #ffffff;
+    text-align: center;
+    max-width: 100% !important;
+    position: fixed;
+    bottom: 0;
+    color: #000000;
+   }
+   footer a {
+       text-decoration: none;
+       /* margin-right: 10px; */
+       width: 100%;
+       color: #000000;
+   }
+   
+   footer span {
+       margin: 0 4px;
+       color: #000000;
+   }
+   footer strong {
+       margin-right: 5px;
+       color: #000000;
+   }
