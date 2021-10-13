@@ -7,7 +7,7 @@ searchBtn.addEventListener('click', getFacts);
 
 function getFacts(){
     // let searchInputTxt = document.getElementById('search-input').value.trim();
-    fetch(`https://catfact.ninja/fact?max_length=140`)
+    fetch(`https://catfact.ninja/fact?max_length=80`)
     .then(response => response.json())
     // .then(data => console.log(data));
     .then(data => {
