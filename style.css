@@ -46,3 +46,12 @@ footer {
        margin-right: 5px;
        color: #000000;
    }
+
+   @media screen and (orientation: landscape) and (max-width: 900px){
+
+    .w3-jumbo {
+    font-size: 30px !important;
+}
+   }
+       
+   
