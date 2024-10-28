@@ -20,3 +20,5 @@ function getFacts() {
         fact.innerHTML = `<p class="w3-large w3-center" id="fact-text">sorry</p>`;
     });
 }
+
+getFacts();
